@@ -11,7 +11,7 @@ Life in the United Kingdom (3rd edition)
 | 6,000yrs          | First farmers | come to Britain from South-East Europe |
 | 4,000yrs          | Bronze Age | then becomes Iron Age |
 | 410                  | Romans end | Roman army(arrived in 43) leaves and never returns; Boudica of Iceni tribe led a failed uprising against romans in 60AD |
-| 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great |
+| 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great at Battle of Eddington; United Anglo-Saxon tribes |
 | 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror wins Battle of Hastings against Harold Godwinson and invades Britain; Bayeux Tapestry and the Doomsday book |
 | 1215                | Magna Carta | The King is subject to the Law | 
 | 1284                | Statute of Rhuddlan | Kind Edward I annexes Wales |
