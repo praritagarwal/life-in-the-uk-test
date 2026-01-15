@@ -13,7 +13,7 @@ Life in the United Kingdom (3rd edition)
 | 410                  | Romans end | Roman army(arrived in 43) leaves and never returns; Boudica of Iceni tribe led a failed uprising against romans in 60AD |
 | 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great at Battle of Eddington; United Anglo-Saxon tribes |
 | 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror wins Battle of Hastings against Harold Godwinson and invades Britain; Bayeux Tapestry and the Doomsday book |
-| 1215                | Magna Carta | The King is subject to the Law | 
+| 1215                | Magna Carta | The King is subject to the Law; Signed by King John | 
 | 1284                | Statute of Rhuddlan | Kind Edward I annexes Wales |
 | 1314                | Battle of Bannockburn | Robert the Bruce (scots) wins |
 | 1348                | Black Death | kills 1/3 of population. After which new class "the gentry" appeared, owners of large areas of land  |
