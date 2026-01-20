@@ -20,6 +20,7 @@ Life in the United Kingdom (3rd edition)
 | 1415                | Battle of Agincourt | Henry V wins during the 100 years war against France |
 | 1455                | start of civil war | houses Lanacaster (red rose) and York (white rose) |
 | 1485                | End War of the Roses | Battle of Bosworth, Lancaster wins over York, Henry VII Tudor king, end of Middle Ages, start of the Reformation |
+| 1534                |  Church of England broke away first from the authority of the pope | Henry VIII breaks away from pope. Marries 6 times |
 | 1560                | Scottish abolish the Pope | |
 | 1588                | Spanish Armada | Elizabeth I defeats spanish invasion to convert to Catholicism |
 | 1603                | James I | End of the Tudor period, James VI of Scotland becomes king |
